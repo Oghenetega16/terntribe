@@ -1,7 +1,7 @@
 import { useState } from "react"
 import NavBar from "../components/NavBar"
 import Footer from "../components/footer"
-import Button from "../src/components/button"
+import Button from "../components/button"
 
 export default function GetInvolved() {
 
